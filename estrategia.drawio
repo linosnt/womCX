@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T22:03:04.789Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="_60YGWNq46MHSfZb74-0" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T22:03:44.762Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="aT8jSoPeloj5bxTa2nft" version="21.6.9" type="github">
   <diagram name="Página-1" id="ZVUjuS-TwMxPAm4DahR5">
     <mxGraphModel dx="1957" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,6 +95,9 @@
           <mxGeometry x="-0.0458" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="y2M8KA7EAdU5h4OUIB-f-35" value="" style="image;html=1;image=img/lib/atlassian/Jira_Service_Desk_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-140" width="59" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
