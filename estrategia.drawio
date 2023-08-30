@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T15:12:48.167Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="5R-tj0_UKqcfwgjAoPLW" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T15:22:01.172Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="0ektk0MFjkflJPdRaEAV" version="21.6.9" type="github">
   <diagram name="Página-1" id="ZVUjuS-TwMxPAm4DahR5">
-    <mxGraphModel dx="1914" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1416" dy="1475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,6 +280,27 @@
         </mxCell>
         <mxCell id="QHSCzGcDIsChi1m0zqlS-47" value="&lt;div&gt;Definiciones para habilitar ambientes&lt;br&gt;&lt;/div&gt;&lt;div&gt;y &lt;/div&gt;Feedback" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QHSCzGcDIsChi1m0zqlS-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6E9FC;strokeColor=#9673a6;fillStyle=solid;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="558.35" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QHSCzGcDIsChi1m0zqlS-51" value="&lt;h1 style=&quot;line-height: 70%;&quot; align=&quot;center&quot;&gt;WOM TeamUAT&lt;/h1&gt;&lt;p style=&quot;line-height: 70%;&quot; align=&quot;center&quot;&gt;Equipo UAT WOM&lt;/p&gt;&lt;p style=&quot;line-height: 70%;&quot; align=&quot;center&quot;&gt;(BUSINESS)&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1657.5" y="575.85" width="205" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QHSCzGcDIsChi1m0zqlS-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1310" y="-10" as="sourcePoint" />
+            <mxPoint x="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QHSCzGcDIsChi1m0zqlS-55" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.015;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;entryPerimeter=0;exitX=1.001;exitY=0.565;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QHSCzGcDIsChi1m0zqlS-41" target="QHSCzGcDIsChi1m0zqlS-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1460" y="600" as="sourcePoint" />
+            <mxPoint x="1625" y="612.85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QHSCzGcDIsChi1m0zqlS-54" value="&lt;div&gt;Colaboración&lt;/div&gt;&lt;div&gt;y &lt;/div&gt;Feedback" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="572.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
