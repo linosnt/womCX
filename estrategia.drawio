@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T14:59:55.670Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="L_bIclN8zb5AiLiF-EA5" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T15:00:42.596Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="dPUluS59UErcGEq8oGkz" version="21.6.9" type="github">
   <diagram name="Página-1" id="ZVUjuS-TwMxPAm4DahR5">
     <mxGraphModel dx="1469" dy="1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,10 +182,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QHSCzGcDIsChi1m0zqlS-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6E9FC;strokeColor=#9673a6;fillStyle=solid;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="680" y="560" width="240" height="110" as="geometry" />
+          <mxGeometry x="682.5" y="558.35" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="QHSCzGcDIsChi1m0zqlS-24" value="&lt;h1 align=&quot;center&quot;&gt;WOM TeamQA&lt;/h1&gt;&lt;p align=&quot;center&quot;&gt;Equipo QA WOM&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="697.5" y="577.5" width="205" height="82.5" as="geometry" />
+          <mxGeometry x="700" y="575.85" width="205" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="QHSCzGcDIsChi1m0zqlS-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.005;entryY=0.56;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryPerimeter=0;" edge="1" parent="1" target="QHSCzGcDIsChi1m0zqlS-41" source="QHSCzGcDIsChi1m0zqlS-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -194,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QHSCzGcDIsChi1m0zqlS-26" value="&lt;div&gt;Colaboración&lt;/div&gt;&lt;div&gt;y &lt;/div&gt;Feedback" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="583.35" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="583.35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QHSCzGcDIsChi1m0zqlS-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6E9FC;strokeColor=#9673a6;fillStyle=solid;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-560" y="-218.75" width="200" height="98.75" as="geometry" />
