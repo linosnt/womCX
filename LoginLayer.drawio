@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T16:07:47.402Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="guchU1wu_tI3aplwah2D" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T16:13:22.461Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="cgA5ZdWhoX4YxXkae3iR" version="21.7.1" type="github">
   <diagram name="Página-1" id="d5EeRuRFpMiQF5zEXvW7">
-    <mxGraphModel dx="2222" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1497" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A8T605t0fPFxCtPTawqi-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="80" width="1560" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="A8T605t0fPFxCtPTawqi-38" value="Login CSR" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;align=right;" edge="1" parent="A8T605t0fPFxCtPTawqi-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="80" as="sourcePoint" />
+            <mxPoint x="340" y="80" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="A8T605t0fPFxCtPTawqi-2" value="WomCX - Fibra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="10" width="120" height="60" as="geometry" />
@@ -125,6 +131,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="700" as="sourcePoint" />
             <mxPoint x="110" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8T605t0fPFxCtPTawqi-36" value="Login CSR" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;align=right;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="120" as="sourcePoint" />
+            <mxPoint x="100" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
