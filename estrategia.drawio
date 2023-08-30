@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T15:09:20.738Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="aNzLD2SEracfvy2Stl6_" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T15:12:48.167Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="5R-tj0_UKqcfwgjAoPLW" version="21.6.9" type="github">
   <diagram name="Página-1" id="ZVUjuS-TwMxPAm4DahR5">
-    <mxGraphModel dx="1332" dy="1432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1914" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,6 +264,22 @@
         </mxCell>
         <mxCell id="QHSCzGcDIsChi1m0zqlS-45" value="&lt;h1&gt;WOM BUSINESS&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-535" y="870" width="225" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QHSCzGcDIsChi1m0zqlS-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.195;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.006;entryY=0.199;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#6666FF;dashed=1;" edge="1" parent="1" source="y2M8KA7EAdU5h4OUIB-f-7" target="y2M8KA7EAdU5h4OUIB-f-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="150" as="sourcePoint" />
+            <mxPoint x="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-80" y="80" />
+              <mxPoint x="-80" />
+              <mxPoint x="220" />
+              <mxPoint x="520" />
+              <mxPoint x="520" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QHSCzGcDIsChi1m0zqlS-47" value="&lt;div&gt;Definiciones para habilitar ambientes&lt;br&gt;&lt;/div&gt;&lt;div&gt;y &lt;/div&gt;Feedback" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
