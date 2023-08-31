@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T18:36:36.615Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="2ec3TSx1KKI6qAeq4HAO" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T19:16:36.219Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="k-Pluuug3QWC-ODVIvyh" version="21.6.9" type="github">
   <diagram name="Página-1" id="ZVUjuS-TwMxPAm4DahR5">
-    <mxGraphModel dx="3088" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2252" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -284,8 +284,26 @@
         <mxCell id="QHSCzGcDIsChi1m0zqlS-57" value="&lt;h1&gt;WOM TeamUAT&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Corresponde a los representantes del negocio que usarán los sistemas que se estarán entregando. &lt;br&gt;&lt;/p&gt;&lt;p&gt;Esta unidad es quien da la aceptación final previa a un paso a producción.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-535" y="1030" width="335" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="viJ_PJvAz_tv7XbU87Tu-1" value="&lt;div&gt;WOMER Process&lt;/div&gt;&lt;div&gt;(Menares)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Colaboración y Feedback&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="-202.5" width="220" height="60" as="geometry" />
+        <mxCell id="viJ_PJvAz_tv7XbU87Tu-1" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;WOMER Process&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;(Menares)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Colaboración y Feedback&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="-72.5" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="viJ_PJvAz_tv7XbU87Tu-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;entryX=-0.006;entryY=0.304;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="viJ_PJvAz_tv7XbU87Tu-1" target="QHSCzGcDIsChi1m0zqlS-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-827" y="-72.5" as="sourcePoint" />
+            <mxPoint x="-660" y="-170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-840" y="-189" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="viJ_PJvAz_tv7XbU87Tu-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="viJ_PJvAz_tv7XbU87Tu-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-560" y="160" as="sourcePoint" />
+            <mxPoint x="-840" y="-12.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-840" y="160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
