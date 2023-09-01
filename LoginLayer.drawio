@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T17:34:36.483Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="LLdvBssjoHtiLsUfr6y1" version="21.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-01T17:35:38.148Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="Mssskkk47fgInZbHZHRG" version="21.7.1" type="github" pages="2">
   <diagram name="UML" id="d5EeRuRFpMiQF5zEXvW7">
     <mxGraphModel dx="2261" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -228,7 +228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aCqXoeS3eprnFAnjWCJ_" name="DiagFlujo">
-    <mxGraphModel dx="2206" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="416" dy="223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,7 +239,7 @@
           <mxGeometry x="240" y="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qk9YQ6XPhpwW8GLzSxVt-3" value="&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;USER&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="90" y="300" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="90" y="280" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wJ5m7bP9TnFNYdQlTLQs-1" value="&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;MicroFront Excecutive Login&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="480" width="160" height="80" as="geometry" />
@@ -336,6 +336,12 @@
         </mxCell>
         <mxCell id="XSeDlzRCZ3oZmp_NpbHL-2" value="&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Entrust&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XSeDlzRCZ3oZmp_NpbHL-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.978;exitY=0.804;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qk9YQ6XPhpwW8GLzSxVt-3" target="Qk9YQ6XPhpwW8GLzSxVt-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="230" as="sourcePoint" />
+            <mxPoint x="250" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
