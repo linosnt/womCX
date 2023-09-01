@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T15:19:01.498Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="-dgwOsOJIk1buuYSpwCk" version="21.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-01T15:21:59.223Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="WNHKQVAuAoxKSDPsouhp" version="21.7.1" type="github" pages="2">
   <diagram name="UML" id="d5EeRuRFpMiQF5zEXvW7">
     <mxGraphModel dx="2261" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -228,7 +228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aCqXoeS3eprnFAnjWCJ_" name="DiagFlujo">
-    <mxGraphModel dx="350" dy="188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="541" dy="291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,7 +326,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IU-gWZg_Gyb1DIgGPcY8-1" value="&lt;div&gt;&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;SSO (cloud)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF5F5;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="760" y="530" width="80" height="50" as="geometry" />
+          <mxGeometry x="760" y="520" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FR0SGzXwkdknBMeJ0Sc-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.004;entryY=0.334;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="IU-gWZg_Gyb1DIgGPcY8-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="540" as="sourcePoint" />
+            <mxPoint x="770" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
