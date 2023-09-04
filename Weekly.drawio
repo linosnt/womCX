@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T02:04:48.853Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="dSOO-ILbfcXbOrNFcX5v" version="21.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-04T02:05:10.826Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="xxmRYaaCyyT8HvEh0NRT" version="21.7.1" type="github" pages="2">
   <diagram name="28-Ago-2023" id="AqcAgudzyXGNyDiwVxFf">
     <mxGraphModel dx="1729" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0N5YEf9u6ELsSaNXF9H5" name="4-Sept-2023">
-    <mxGraphModel dx="834" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,6 +197,9 @@
         </mxCell>
         <mxCell id="XcffI8AtF71vDgiWjtYA-66" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Research&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Funcionalidades&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#F7FFED;strokeColor=#006600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1045" y="410" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XcffI8AtF71vDgiWjtYA-69" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Arquitectura LOGIN&lt;/font&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#FFF2FF;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
