@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T16:21:20.969Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="MukoVIhFBJXiCFmP4LkF" version="21.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-06T13:40:19.777Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SMP0xg9FFO4C2wOwPt0v" version="21.7.1" type="github" pages="2">
   <diagram name="UML" id="d5EeRuRFpMiQF5zEXvW7">
-    <mxGraphModel dx="2544" dy="1982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2866" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -305,17 +305,25 @@
         <mxCell id="4RIN9Qf8uWONkdFRaZs1-19" value="Roles" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="705" y="790" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qAlXfEuz4DehiTxV9YZ3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4RIN9Qf8uWONkdFRaZs1-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280.25" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4RIN9Qf8uWONkdFRaZs1-21" value="BBDD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qAlXfEuz4DehiTxV9YZ3-1" value="BBDD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="10" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qAlXfEuz4DehiTxV9YZ3-4" value="Base de Datos WOM a definir" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="800" width="150" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="aCqXoeS3eprnFAnjWCJ_" name="DiagFlujo">
-    <mxGraphModel dx="1631" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1631" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
