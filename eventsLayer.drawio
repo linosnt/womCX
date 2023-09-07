@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T15:17:40.674Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="mp_cR7MpSkszWli5rWOh" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T15:32:39.027Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="LruRpxrELgsE_Rl24Frp" version="21.7.1" type="github">
   <diagram name="Página-1" id="j28CgCLm0zlX5Y3vUb_f">
     <mxGraphModel dx="1857" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="30X6FnK1sthkGadfS2QK-56" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="10" width="1230" height="640" as="geometry" />
+        </mxCell>
         <mxCell id="30X6FnK1sthkGadfS2QK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;fillStyle=hatch;align=left;" vertex="1" parent="1">
           <mxGeometry x="-20" y="240" width="780" height="400" as="geometry" />
         </mxCell>
@@ -53,7 +56,7 @@
           <mxGeometry x="240" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="30X6FnK1sthkGadfS2QK-9" value="BFF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="-20" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="30X6FnK1sthkGadfS2QK-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="30X6FnK1sthkGadfS2QK-10" target="30X6FnK1sthkGadfS2QK-6">
           <mxGeometry relative="1" as="geometry" />
@@ -88,7 +91,7 @@
         <mxCell id="30X6FnK1sthkGadfS2QK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="30X6FnK1sthkGadfS2QK-24" target="30X6FnK1sthkGadfS2QK-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="30X6FnK1sthkGadfS2QK-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="30X6FnK1sthkGadfS2QK-24" target="30X6FnK1sthkGadfS2QK-43">
+        <mxCell id="30X6FnK1sthkGadfS2QK-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="30X6FnK1sthkGadfS2QK-24" target="30X6FnK1sthkGadfS2QK-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="30X6FnK1sthkGadfS2QK-24" value="&lt;font color=&quot;#ffffff&quot;&gt;Fuentes de Eventos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
@@ -99,6 +102,11 @@
         </mxCell>
         <mxCell id="30X6FnK1sthkGadfS2QK-27" value="TMF" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="30" y="380" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="30X6FnK1sthkGadfS2QK-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="30X6FnK1sthkGadfS2QK-28" target="30X6FnK1sthkGadfS2QK-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="30X6FnK1sthkGadfS2QK-28" value="Mongo Atlas" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=3.999999999999943;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="60" y="447.5" width="40" height="62" as="geometry" />
@@ -117,14 +125,14 @@
         <mxCell id="30X6FnK1sthkGadfS2QK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="30X6FnK1sthkGadfS2QK-32" target="30X6FnK1sthkGadfS2QK-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="30X6FnK1sthkGadfS2QK-34" value="1 o N BFFs para WOM-CX" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="30X6FnK1sthkGadfS2QK-34" value="¿1 o N BFFs para WOM-CX?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="719.9999999999998" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="30X6FnK1sthkGadfS2QK-41" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;" vertex="1" parent="1">
           <mxGeometry x="80" y="385" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="30X6FnK1sthkGadfS2QK-43" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="870" y="660" width="25" height="25" as="geometry" />
+          <mxGeometry x="860" y="650" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="30X6FnK1sthkGadfS2QK-44" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="870" y="405" width="25" height="25" as="geometry" />
@@ -136,16 +144,22 @@
           <mxGeometry x="197.5" y="150" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="30X6FnK1sthkGadfS2QK-47" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="462.5" y="640" width="25" height="25" as="geometry" />
+          <mxGeometry x="435" y="605.5" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="30X6FnK1sthkGadfS2QK-48" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="345" y="460" width="25" height="25" as="geometry" />
+          <mxGeometry x="370" y="466" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="30X6FnK1sthkGadfS2QK-49" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="462.5" y="324.5" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="30X6FnK1sthkGadfS2QK-50" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="300" y="155" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="30X6FnK1sthkGadfS2QK-54" value="BBDD que conecptualmente interactua con TMF u otros. Por definir donde debería interacturar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="515" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="30X6FnK1sthkGadfS2QK-58" value="AWS Cloud" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.aws_cloud;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="10" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
