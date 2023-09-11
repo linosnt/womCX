@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T17:08:10.616Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="c-rcHoTY93UirDYAG9TC" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-11T17:08:27.708Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZzPsR7uTuqAN1L_O9QKb" version="21.7.2" type="github" pages="2">
   <diagram name="UML" id="d5EeRuRFpMiQF5zEXvW7">
     <mxGraphModel dx="3218" dy="2560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
         <mxCell id="A8T605t0fPFxCtPTawqi-5" value="CORE SRV40180" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A8T605t0fPFxCtPTawqi-6" value="CORE SRV40433" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="A8T605t0fPFxCtPTawqi-6" value="CORE SRV40433" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="860" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A8T605t0fPFxCtPTawqi-7" value="ZSmart" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -351,7 +351,7 @@
         <mxCell id="4RIN9Qf8uWONkdFRaZs1-21" value="BBDD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1360" y="721" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qAlXfEuz4DehiTxV9YZ3-1" value="BBDD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qAlXfEuz4DehiTxV9YZ3-1" value="BBDD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1360" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qAlXfEuz4DehiTxV9YZ3-4" value="Base de Datos WOM a definir&lt;br&gt;SRV40497" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
