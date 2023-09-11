@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T17:13:44.332Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Hj9565Y6W-W7NHnQXFCS" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-11T19:08:17.626Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RxFMNNt_LxE2YWsr06--" version="21.7.2" type="github" pages="2">
   <diagram name="UML" id="d5EeRuRFpMiQF5zEXvW7">
-    <mxGraphModel dx="2222" dy="1981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2218" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -366,9 +366,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PrjYxYXNFDs5UHpBNHa3-4" value="Despues de volver a la BBDD el 40433 debería ir al 40497 a complementar la búsqueda de Roles&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1575" y="871" width="170" height="60" as="geometry" />
+          <mxGeometry x="1575" y="840" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PrjYxYXNFDs5UHpBNHa3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PrjYxYXNFDs5UHpBNHa3-3" target="PrjYxYXNFDs5UHpBNHa3-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1rUb5VfHZ6j85qBB9--19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PrjYxYXNFDs5UHpBNHa3-6" target="PrjYxYXNFDs5UHpBNHa3-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PrjYxYXNFDs5UHpBNHa3-6" value="Se debe simular llamada ejecutivo para un tercero para hacer un &#39;paso&#39; de las definiciones de los TMFS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -391,6 +394,20 @@
         </mxCell>
         <mxCell id="vn1rUb5VfHZ6j85qBB9--10" value="Usuario + Password + Captcha" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="60" y="-70" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1rUb5VfHZ6j85qBB9--16" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="vn1rUb5VfHZ6j85qBB9--15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vn1rUb5VfHZ6j85qBB9--15" value="Dos veces - una para autenticar y otra para traer información" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="-100" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1rUb5VfHZ6j85qBB9--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vn1rUb5VfHZ6j85qBB9--17" target="A8T605t0fPFxCtPTawqi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vn1rUb5VfHZ6j85qBB9--17" value="Dar detalle del flujo entre SRV40180 y Zsmart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
