@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T20:03:20.173Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" version="21.7.4" etag="cdHcM_oLH-4JBIYfQIit" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T20:15:42.124Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="mm5BfiFoicPPNls1w8VO" version="21.7.4" type="github">
   <diagram name="Página-1" id="N0EDhrar59gtSNqKn8Ru">
-    <mxGraphModel>
+    <mxGraphModel dx="1147" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eGgrIFIiYUPBz0Wt19Jd-2" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;Definir Infraestructura&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&lt;br&gt;&amp;gt; resources y modules&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7FAFC;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eGgrIFIiYUPBz0Wt19Jd-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;Importar&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;Infraestructura Existente&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&amp;gt; InfraAsCode Propio&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7FAFC;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eGgrIFIiYUPBz0Wt19Jd-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;Customizar&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;modulos existente de&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;Terraform&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7FAFC;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eGgrIFIiYUPBz0Wt19Jd-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;Crear nuevos&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;modulos de&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;Terraform&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7FAFC;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eGgrIFIiYUPBz0Wt19Jd-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;W&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;orkspaces&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;Replicar stacks completos&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;Terraform&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7FAFC;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="400" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eGgrIFIiYUPBz0Wt19Jd-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="eGgrIFIiYUPBz0Wt19Jd-3" target="eGgrIFIiYUPBz0Wt19Jd-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="550" as="sourcePoint" />
+            <mxPoint x="450" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGgrIFIiYUPBz0Wt19Jd-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="eGgrIFIiYUPBz0Wt19Jd-2" target="eGgrIFIiYUPBz0Wt19Jd-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGgrIFIiYUPBz0Wt19Jd-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="eGgrIFIiYUPBz0Wt19Jd-4" target="eGgrIFIiYUPBz0Wt19Jd-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="595" as="sourcePoint" />
+            <mxPoint x="420" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGgrIFIiYUPBz0Wt19Jd-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="eGgrIFIiYUPBz0Wt19Jd-5" target="eGgrIFIiYUPBz0Wt19Jd-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="605" as="sourcePoint" />
+            <mxPoint x="430" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
