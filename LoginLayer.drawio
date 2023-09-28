@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T15:37:06.952Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="aHXpD2tHjjuFKayPld0j" version="21.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-28T13:42:39.010Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RB_2w91vUZpXTkWOYUXz" version="21.8.1" type="github" pages="2">
   <diagram name="UML" id="d5EeRuRFpMiQF5zEXvW7">
-    <mxGraphModel dx="2291" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2023" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,7 +196,7 @@
             <mxPoint x="960" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gQQVIn_bHCVbndjVJath-4" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;dashed=1;" edge="1" parent="A8T605t0fPFxCtPTawqi-1">
+        <mxCell id="gQQVIn_bHCVbndjVJath-4" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;dashed=1;" parent="A8T605t0fPFxCtPTawqi-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1300" y="190" as="sourcePoint" />
             <mxPoint x="630" y="190" as="targetPoint" />
@@ -415,16 +415,16 @@
         <mxCell id="vn1rUb5VfHZ6j85qBB9--17" value="Dar detalle del flujo entre SRV40180 y Zsmart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="740" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9bAhrXKBDcAxw9IQ3mpM-1" value="APICAST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9bAhrXKBDcAxw9IQ3mpM-1" value="APICAST" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="-75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gQQVIn_bHCVbndjVJath-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="gQQVIn_bHCVbndjVJath-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="300" as="sourcePoint" />
             <mxPoint x="1260" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gQQVIn_bHCVbndjVJath-3" value="Información AD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="gQQVIn_bHCVbndjVJath-2">
+        <mxCell id="gQQVIn_bHCVbndjVJath-3" value="Información AD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="gQQVIn_bHCVbndjVJath-2" vertex="1" connectable="0">
           <mxGeometry x="-0.869" y="1" relative="1" as="geometry">
             <mxPoint x="20" y="-9" as="offset" />
           </mxGeometry>
@@ -433,7 +433,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aCqXoeS3eprnFAnjWCJ_" name="DiagFlujo">
-    <mxGraphModel dx="1391" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1046" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -550,7 +550,7 @@
             <mxPoint x="250" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z7scycboCp-Kxo2RDr9l-1" value="&lt;h1 align=&quot;justify&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;Entrust&lt;/font&gt;&lt;/h1&gt;&lt;p align=&quot;justify&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;El servicio BFF que forma parte de la solución de login se comunica a la api de Entrust a través el API Gateway de AWS. Luego el servicios de Entrust valida directamente con el servicio LDAP y luego con el servicio SSO propios de WOM para devolver una respuesta encriptada con toda la información necesaria, esto es federación de usuario, token de sesión, etc.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Z7scycboCp-Kxo2RDr9l-1" value="&lt;h1 align=&quot;justify&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;Entrust&lt;/font&gt;&lt;/h1&gt;&lt;p align=&quot;justify&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;El servicio BFF que forma parte de la solución de login se comunica a la api de Entrust a través el API Gateway de AWS. Luego el servicio de Entrust valida directamente con el servicio LDAP y luego con el servicio SSO propios de WOM para devolver una respuesta encriptada con toda la información necesaria, esto es federación de usuario, token de sesión, etc.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="860" y="400" width="340" height="190" as="geometry" />
         </mxCell>
         <mxCell id="vKFDed3KYvqOZPU0DlMY-1" value="&lt;div&gt;&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;SRV40180&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
@@ -590,6 +590,12 @@
         </mxCell>
         <mxCell id="QfxXvtwyll3H_TrYS65J-6" value="&lt;div&gt;&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Capa&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Distribución de Carga&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="215" y="390" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oHm7lRc6RhgcCLy_3o-_-1" value="Para llegar a información Zsmart se pasa por el LoginManager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="970" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oHm7lRc6RhgcCLy_3o-_-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;Una ves terminado el flujo. Para el login se obtiene&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Token login&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Roles Ejecutivo&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Canal Ejecutivo&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="430" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
