@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T15:50:42.923Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VeOkCcbhdoT33Zi1W2NC" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T15:56:10.543Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="xKaJuD6GDTFa5sot-HlJ" version="22.0.2" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1265" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2365" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,6 +111,36 @@
         </mxCell>
         <mxCell id="EeXkkkL23-UbbNsX8uU1-16" value="Onpremise WOM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EeXkkkL23-UbbNsX8uU1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EeXkkkL23-UbbNsX8uU1-17" target="EeXkkkL23-UbbNsX8uU1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EeXkkkL23-UbbNsX8uU1-17" value="Servicios que se irán exponiendo a medida que se vaya requiriendo" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="970" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EeXkkkL23-UbbNsX8uU1-19" value="Base de Datos que alojará data asociada a WOM CX" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="970" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EeXkkkL23-UbbNsX8uU1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.293;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EeXkkkL23-UbbNsX8uU1-19" target="EeXkkkL23-UbbNsX8uU1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EeXkkkL23-UbbNsX8uU1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EeXkkkL23-UbbNsX8uU1-21" target="EeXkkkL23-UbbNsX8uU1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EeXkkkL23-UbbNsX8uU1-21" value="Funcionalidades incrementarán&amp;nbsp; en los siguientes Sprints" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="660" width="110" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="EeXkkkL23-UbbNsX8uU1-23" value="Funcionalidades incrementarán&amp;nbsp; en los siguientes Sprints" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="140" width="110" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="EeXkkkL23-UbbNsX8uU1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.597;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EeXkkkL23-UbbNsX8uU1-23" target="39150e848f15840c-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EeXkkkL23-UbbNsX8uU1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EeXkkkL23-UbbNsX8uU1-25" target="39150e848f15840c-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EeXkkkL23-UbbNsX8uU1-25" value="API que irá exponiendo servicios incrementalmente en cada Sprint" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="420" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
