@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T18:51:00.849Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="O-IWDmmosdl73hEeeAUp" version="22.0.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-20T14:16:32.862Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="RoVLIMK4DYNsMTm_NTNn" version="22.0.5" type="github" pages="4">
   <diagram name="eventsLayer" id="j28CgCLm0zlX5Y3vUb_f">
     <mxGraphModel dx="2218" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -327,7 +327,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ArquitecturaWOMCX" id="UTTCaDMR3EFoClm8Hxe0">
-    <mxGraphModel dx="1986" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1525" dy="1575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gP3E-fUSciDgWxIcMZPL-0" />
         <mxCell id="gP3E-fUSciDgWxIcMZPL-1" parent="gP3E-fUSciDgWxIcMZPL-0" />
