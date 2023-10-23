@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T14:07:28.120Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="QMESvEjYV6FbacoWPMVT" version="22.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-23T14:29:26.321Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="-bg3ZltAYkPoD38oTzCf" version="22.0.6" type="github" pages="2">
   <diagram name="Macro" id="ZVUjuS-TwMxPAm4DahR5">
     <mxGraphModel dx="3088" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -360,10 +360,70 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nja6Suu0KuZuv9Sff7lS" name="Fibra-DiscoveryService">
-    <mxGraphModel dx="1434" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QuQ42wqeTipDlnl79U_H-1" value="&lt;div&gt;PROCESO FIBRA&lt;/div&gt;EjecutivoWOM&lt;br&gt;(VENTA ASISTIDA)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QuQ42wqeTipDlnl79U_H-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCFCFC;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="680" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QuQ42wqeTipDlnl79U_H-5" value="PROCESO FIBRA&lt;br&gt;ClienteWOM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="80" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QuQ42wqeTipDlnl79U_H-6" value="FIGMA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7EDFF;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QuQ42wqeTipDlnl79U_H-7" value="&lt;div&gt;PROCESO&lt;/div&gt;(UserHistoryMap)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7EDFF;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QuQ42wqeTipDlnl79U_H-8" value="&lt;div&gt;ServiceDiscovery&lt;/div&gt;&lt;div&gt;Identificar servicios existentes&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;strokeColor=#336600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QuQ42wqeTipDlnl79U_H-9" value="&lt;div&gt;ServiceDiscovery&lt;/div&gt;&lt;div&gt;Identificar &lt;b&gt;Nuevos&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Servicios existentes&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4E8;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QuQ42wqeTipDlnl79U_H-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QuQ42wqeTipDlnl79U_H-7" target="QuQ42wqeTipDlnl79U_H-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="350" as="sourcePoint" />
+            <mxPoint x="300" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QuQ42wqeTipDlnl79U_H-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QuQ42wqeTipDlnl79U_H-6" target="QuQ42wqeTipDlnl79U_H-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="290" as="sourcePoint" />
+            <mxPoint x="410" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QuQ42wqeTipDlnl79U_H-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QuQ42wqeTipDlnl79U_H-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="290" as="sourcePoint" />
+            <mxPoint x="320" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QuQ42wqeTipDlnl79U_H-13" value="&lt;div&gt;Refinamiento&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="270" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QuQ42wqeTipDlnl79U_H-14" value="Diseño" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QuQ42wqeTipDlnl79U_H-15" value="&lt;div&gt;Spike&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="290" width="44" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QuQ42wqeTipDlnl79U_H-18" value="SubTarea" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="278" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QuQ42wqeTipDlnl79U_H-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QuQ42wqeTipDlnl79U_H-9" target="QuQ42wqeTipDlnl79U_H-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="530" as="sourcePoint" />
+            <mxPoint x="360" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
