@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T14:29:26.321Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="-bg3ZltAYkPoD38oTzCf" version="22.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-23T14:30:28.179Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="A5230oFURNL_lxtloZQF" version="22.0.6" type="github" pages="2">
   <diagram name="Macro" id="ZVUjuS-TwMxPAm4DahR5">
     <mxGraphModel dx="3088" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -360,7 +360,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nja6Suu0KuZuv9Sff7lS" name="Fibra-DiscoveryService">
-    <mxGraphModel dx="819" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -371,7 +371,7 @@
           <mxGeometry x="80" y="240" width="680" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QuQ42wqeTipDlnl79U_H-5" value="PROCESO FIBRA&lt;br&gt;ClienteWOM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="80" width="220" height="80" as="geometry" />
+          <mxGeometry x="540" y="80" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QuQ42wqeTipDlnl79U_H-6" value="FIGMA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7EDFF;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="260" width="120" height="60" as="geometry" />
@@ -423,6 +423,9 @@
             <mxPoint x="310" y="530" as="sourcePoint" />
             <mxPoint x="360" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QuQ42wqeTipDlnl79U_H-21" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;LOGIN&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="325" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
